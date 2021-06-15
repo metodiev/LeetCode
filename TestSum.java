@@ -1,7 +1,5 @@
 
 
-package com.pcbsys.nirvana.client.clusterClientConnection;
-
 import java.lang.reflect.MalformedParameterizedTypeException;
 import java.util.ArrayList;
 import java.util.HashMap;
